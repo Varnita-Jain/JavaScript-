@@ -87,7 +87,7 @@ console.log(student);
 console.log(student["age"]); // way to print if i want signle value from object.
 console.log(student.age); // another way to print value from object.
 
-// Question
+// Question 1-
 // create an const object called " Product" to store information shown in picture which is a pen on amaazon.
 
 const Product = {
